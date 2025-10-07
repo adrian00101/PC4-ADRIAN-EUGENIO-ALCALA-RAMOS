@@ -1,0 +1,5 @@
+Resumen de Temperaturas
+-------------------------
+Temperatura promedio: 17.83 °C
+Temperatura máxima: 22.00 °C
+Temperatura mínima: 13.90 °C
